@@ -3,3 +3,5 @@ accelerate
 fastapi
 scipy
 transformers
+fastapi
+uvicorn[standard]
